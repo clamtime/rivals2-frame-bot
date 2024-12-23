@@ -1,0 +1,25 @@
+{
+  "name": "framebot",
+  "version": "1.2.5",
+  "description": "smash ultimate frame data botty boi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node framebot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonEstabrook/framebot.git"
+  },
+  "keywords": [
+    "smush"
+  ],
+  "author": "rags",
+  "license": "ISC",
+  "bugs": "https://forms.gle/fT3oDuva3DosScjdA",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security"
+  }
+}
